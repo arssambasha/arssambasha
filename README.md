@@ -1,16 +1,13 @@
-### Hi there 👋
+![MasterHead](https://images7.alphacoders.com/706/706406.png)
 
-<!--
-**arssambasha/arssambasha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Arssam Basha!</h1>
+<h3 align="center">A passionate learner to develop awesome applications!</h3>
 
-Here are some ideas to get you started:
+🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Languages:</h3>
+<p align="left">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/570px-C_Programming_Language.svg.png?20201031132917"  width="50"> &nbsp &nbsp        
+ <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png"  width="50" > &nbsp &nbsp
+ <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png"  width="50"> &nbsp &nbsp
+ </p>
