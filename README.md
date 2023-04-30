@@ -1,13 +1,19 @@
+<p align="center">
+ <a href="https://www.linkedin.com/in/arssam-basha" target="_blank">
+ <img src="https://user-images.githubusercontent.com/70753519/235355769-bdc4cd3b-d0a4-4fb0-a3b4-17b223128add.gif" alt="Arssam Basha">
+ </a>
+</p>
 
-![Arssam Linkedin cover](https://user-images.githubusercontent.com/70753519/235346465-efd8fbed-5363-4597-81ce-e9a7f9a9eea9.png)
+<h1 align="center">Hi! 👋</h1>
 
-🌱 I’m currently learning **Data Structures and Algorithms**
+![](https://komarev.com/ghpvc/?username=arssambasha&color=000000&style=for-the-badge)
 
-<img src="https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80" alt="P">
+<h3 align="left">Connect with me:</h3>
+<a href="https://www.linkedin.com/in/arssam-basha" target="_blank">
+ <img src="https://user-images.githubusercontent.com/70753519/235355937-9a448230-5e43-4a09-8022-fab5b2f5f735.png" alt="LinkedIn" width=150>
+</a>
 
-<h3 align="left">Connect:</h3>
 
-<a href="https://linkedin.com/in/holahello" target="blank"><img align="center" src="https://user-images.githubusercontent.com/70753519/235346764-f94efc51-b8a1-47c3-8e0e-a0c483898789.png" alt="holahello" height="30" width="40" /></a>
 
 
 <h3 align="left">Languages:</h3>
@@ -16,4 +22,8 @@
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/570px-C_Programming_Language.svg.png?20201031132917"  width="50"> &nbsp &nbsp        
  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png"  width="50" > &nbsp &nbsp
  <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png"  width="50"> &nbsp &nbsp
+ </p>
+ 
+ <p align="center">
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer"/>
  </p>
