@@ -1,8 +1,6 @@
 
 ![Arssam Linkedin cover](https://user-images.githubusercontent.com/70753519/235346465-efd8fbed-5363-4597-81ce-e9a7f9a9eea9.png)
 
-<h1 align="center">Hi 👋, I'm Arssam Basha!</h1>
-
 🌱 I’m currently learning **Data Structures and Algorithms**
 
 <img src="https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80" alt="P">
