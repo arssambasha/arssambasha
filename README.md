@@ -40,5 +40,5 @@ class Student
  
 
  <p align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer"/>
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,2,4&height=120&section=footer"/>
  </p>
