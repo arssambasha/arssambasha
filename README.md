@@ -1,7 +1,7 @@
 
 <p align="center">
  <a href="https://www.linkedin.com/in/arssam-basha" target="_blank">
- <img src="https://user-images.githubusercontent.com/70753519/235366469-29e36089-d348-4a25-922b-c29ba7c4b528.gif" alt="Arssam Basha">
+ <img src="https://user-images.githubusercontent.com/70753519/235367073-21fe8616-338c-4cda-8e47-0dc9e67bd374.gif" alt="Arssam Basha">
  </a>
 </p>
 
