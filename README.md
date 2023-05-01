@@ -5,11 +5,10 @@
  </a>
 </p>
 
+<h1 align="center"><img src="https://user-images.githubusercontent.com/70753519/235408977-0650dc76-f738-43d1-89d8-25983e7af5fc.gif" width="50" alt="Hi!">
+ , I'm Arssam Basha</h1>
 
-
-<h1 align="center">Hi! 👋, I'm Arssam Basha</h1>
-
-![](https://komarev.com/ghpvc/?username=arssambasha&color=000000&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=arssambasha&color=008585&style=for-the-badge)
 
 ```c++
 #include <aboutme>
