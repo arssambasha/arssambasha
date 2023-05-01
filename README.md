@@ -1,9 +1,10 @@
 
 <p align="center">
  <a href="https://www.linkedin.com/in/arssam-basha" target="_blank">
- <img src="https://user-images.githubusercontent.com/70753519/235367073-21fe8616-338c-4cda-8e47-0dc9e67bd374.gif" alt="Arssam Basha">
+ <img src="https://user-images.githubusercontent.com/70753519/235408347-bb96b76e-317c-4b7d-9d2b-5bae180f8b36.gif" alt="Arssam Basha">
  </a>
 </p>
+
 
 
 <h1 align="center">Hi! 👋, I'm Arssam Basha</h1>
