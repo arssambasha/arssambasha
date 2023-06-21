@@ -10,15 +10,15 @@
 
 ![](https://komarev.com/ghpvc/?username=arssambasha&color=008585&style=for-the-badge)
 
-```c++
-#include <aboutme>
-class Student
+```c
+#include <aboutme.h>
+void main()
 {
     char name[] = "M. Arssam Basha";
     char degree[] = "Computer Science and Engineering";
-    char studyingYear[] = {50, 'n', 'd', '\0'};
+    char studyingYear[] = {51, 'r', 'd', '\0'};
     char currentlyLearning[] = "Data Structures and Algorithm";
-};
+}
 ```
 
 <h3 align="left">Connect with me:</h3>
