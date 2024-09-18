@@ -16,7 +16,7 @@ void main()
 {
     char name[] = "M. Arssam Basha";
     char degree[] = "Computer Science and Engineering";
-    char studyingYear[] = {51, 'r', 'd', '\0'};
+    char studyingYear[] = {52, 'r', 'd', '\0'};
     char currentlyLearning[] = "Data Structures and Algorithms";
 }
 ```
